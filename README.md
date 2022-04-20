@@ -47,10 +47,13 @@ Development server Live [here]()
 
 ```bash
 # Start venv
-source venv/bin/activate
+source .venv/bin/activate
 
 # End venv
 deactivate
+
+# Setup requirements
+pip install -r requirements.txt
 
 # Local server
 python manage.py runserver --settings=website.settings.development
