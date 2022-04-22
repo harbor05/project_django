@@ -21,6 +21,8 @@ Development server Live [here]()
 - Django
 - Stack
   - Django Rest Framework
+- Auth
+  - Google OAuth
 
 </br>
 
